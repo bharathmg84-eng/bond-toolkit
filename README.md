@@ -30,5 +30,5 @@ Results checked against Excel (PV, RATE, DURATION, MDURATION, ACCRINT) and 8 edg
 Open `07_demo.ipynb` in Jupyter.
 
 ## Limitations
-No call/put features, no floating-rate bonds, 30/360 only.
+No call/put features, no floating-rate bonds, 30/360 assumed only.
 
