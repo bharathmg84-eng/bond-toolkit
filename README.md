@@ -19,6 +19,7 @@ Python toolkit for pricing fixed-rate bonds and measuring interest-rate risk.
 - Face value repaid at maturity
 
 ## Worked example
+![Convexity chart](convexity_chart.png)
 Face 1000, 8% coupon, 5 years, 10% yield, semiannual:
 price 922.78, modified duration 3.98, convexity 19.57.
 At +200 bps: duration-only error -3.48, duration+convexity error 0.13.
