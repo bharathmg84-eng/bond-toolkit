@@ -28,6 +28,7 @@ At +200 bps: duration-only error -3.48, duration+convexity error 0.13.
 Results checked against Excel (PV, RATE, DURATION, MDURATION, ACCRINT) and 8 edge-case tests.
 
 ## Run it
+Requires: pandas, matplotlib, ipywidgets
 Open `07_demo.ipynb` in Jupyter.
 
 ## Limitations
